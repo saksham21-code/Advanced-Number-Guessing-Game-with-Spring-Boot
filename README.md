@@ -10,8 +10,6 @@ The Advanced Number Guessing Game is a web application developed using Spring Bo
 - Random number generation
 - Configurable range for the random number
 - Feedback on guesses (too high, too low)
-- Game state management for multiple sessions
-- User session management and history tracking
 
 ## Technologies Used
 
@@ -20,7 +18,6 @@ The Advanced Number Guessing Game is a web application developed using Spring Bo
 - Spring MVC
 - Maven
 - REST API
-- H2 Database (or any other database)
 
 ## Setup and Running the Application
 
